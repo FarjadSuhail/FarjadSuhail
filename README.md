@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **farjadsuhail01@gmail.com**
 
+- 📄 Know about my experiences [https://tinyurl.com/farjadsuhail-resume](https://tinyurl.com/farjadsuhail-resume)
+
 - ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
