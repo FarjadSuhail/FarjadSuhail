@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farjadsuhail&label=Profile%20views&color=0e75b6&style=flat" alt="farjadsuhail" /> </p>
 
-- 🔭 I’m currently working at **Systems Limited**
+- 🔭 I’m currently studing Masters Research in Computer Systems and Engineering at **TU Ilmenau**
 
 - 🌱 I’m currently learning **Devops**
 
